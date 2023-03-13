@@ -11,4 +11,4 @@ function minCostToFormRope(a){
 	cost+=res;
 	arr.sort(function(a,b){returt a-b});
 	}
-}
+} document.getElementById("result").textContent=cost;
